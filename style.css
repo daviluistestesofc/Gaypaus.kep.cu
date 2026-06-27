@@ -133,3 +133,30 @@ footer {
   background: linear-gradient(90deg, var(--accent), var(--accent2));
   box-shadow: 0 0 30px rgba(255,47,214,0.9);
 }
+
+.barra-topo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333333; /* Cor de fundo */
+    color: #ffffff; /* Cor do texto */
+    padding: 12px 0;
+    overflow: hidden; /* Esconde o texto que sai da tela */
+}
+
+.container-texto {
+    display: inline-block;
+    white-space: nowrap; /* Impede o texto de quebrar linha */
+    animation: moverTexto 15s linear infinite; /* 15s é a velocidade */
+}
+
+/* Cria a animação de movimento */
+@keyframes moverTexto {
+    0% {
+        transform: translate3d(100vw, 0, 0); /* Começa fora da tela na direita */
+    }
+    100% {
+        transform: translate3d(-100%, 0, 0); /* Termina fora da tela na esquerda */
+    }
+}
