@@ -1,18 +1,20 @@
-# <img width="1640" height="664" alt="Daplayys Logo" src="https://github.com/user-attachments/assets/96ac54f0-f235-4f11-b832-03fd30f6e6fc" />
+# <img width="1640" height="664" alt="Daplayys Logo" src="./assets/70 Sem Título_20260716211510.png" />
 
-# O site do Daplayys, meu canal de jogos no YouTube
-Um site simples feito no ChatGPT por pura preguiça
-Um site só de nada mesmo ;-;
+# GAYYYY DE PAUUUUUUUUUUUUUUUUUU
+Um site simples feito no MEU GAYPAUS DO CARAI
+Um site só de encher a bunda de BOSTA (velocidade lenta pra cacete)
 
 # ATENÇÃO!!!!
 
-O repositório pode ser **EDITADO**, então não mexa em nada! **NADA MESMO!**, se não vc vai ver só o que vai acontecer >:(
+o lula pode roubar mias picanha, então me doa no pix pra comprar pinga 🤑🤑🤑🤑🤑
+
+pix: 1628527252826282628267262727263636272628268292982727295273+gov=lula
 
 # ATENÇÃO PT 2!!!!
 
-O repositório foi arquivado, por tanto o canal do Daplayys nem existe mais, obrigado pelo apoio :)
+trollei kkkkk
 
 # Sabia mais sobre o canal dele
-O canal **NÃO** está disponível no YouTube e Tiktok mais (que faz tempo que não posta nada) e você não poderá ver eles
-YouTube: https://www.youtube.com/@Daplayys
-TikTok: esqueci ;-;
+o gaypaus está me gugando bosta
+
+YouTube: https://www.youtube.com/@Keplayss1
