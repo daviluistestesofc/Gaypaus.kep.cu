@@ -1,15 +1,15 @@
 :root {
-  --bg: #0b0014;
-  --card: #1a0033;
+  --bg: #ffffff;
+  --card: #ffffff;
   --text: #ffffff;
-  --accent: #ff2fd6;
-  --accent2: #00f7ff;
+  --accent: #ffffff;
+  --accent2: #ffffff;
 }
 
 body.light {
-  --bg: #f6eaff;
+  --bg: #ffffff;
   --card: #ffffff;
-  --text: #12001f;
+  --text: #000000;
 }
 
 * {
@@ -19,7 +19,7 @@ body.light {
 }
 
 body {
-  background: radial-gradient(circle at top, #1a0033, var(--bg));
+  background: radial-gradient(circle at top, #ffffff, var(--bg));
   color: var(--text);
   font-family: 'Poppins', sans-serif;
 }
@@ -73,7 +73,7 @@ nav a:hover {
 }
 
 .card {
-  background: linear-gradient(160deg, #22004d, #12001f);
+  background: linear-gradient(160deg, #ffffff, #000000);
   padding: 28px;
   border-radius: 20px;
   box-shadow:
@@ -139,8 +139,8 @@ footer {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #333333; /* Cor de fundo */
-    color: #ffffff; /* Cor do texto */
+    background-color: #ffffff; /* Cor de fundo */
+    color: #000000; /* Cor do texto */
     padding: 12px 0;
     overflow: hidden; /* Esconde o texto que sai da tela */
 }
